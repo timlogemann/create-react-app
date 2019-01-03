@@ -1,6 +1,6 @@
 {
   "name": "@gohike/react-scripts",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Configuration and scripts for Create React App. With Changes.",
   "repository": "timlogemann/create-react-app",
   "license": "MIT",
